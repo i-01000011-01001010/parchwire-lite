@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Alex Rivera",
+    "label": "Support Engineer | Systems Administration | Documentation",
+    "email": "alex@example.com",
+    "phone": "555-0100",
+    "url": "https://example.com/alex-rivera",
+    "image": "",
+    "summary": "SAMPLE RESUME. Every name, business, school and place in this file is made up. Replace it with your own details. Support engineer with ten years of experience keeping small teams productive. I like clear writing, calm incident handling and fixing the cause rather than the symptom.",
+    "location": {
+      "city": "Pinewick",
+      "region": "ME",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "Professional network",
+        "username": "alex-rivera",
+        "url": "https://example.com/alex-rivera/profile"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Quillstone Software",
+      "position": "Senior Support Engineer",
+      "location": "Remote",
+      "startDate": "2021-03",
+      "endDate": "",
+      "summary": "Second line support for a software product used by about 400 small businesses.",
+      "highlights": [
+        "Cut the average time to resolve a ticket from three days to one by rewriting the most common answers as short guides.",
+        "Built a weekly report that showed which problems came back, which led to three product fixes.",
+        "Trained eight new support staff."
+      ]
+    },
+    {
+      "name": "Brindlecrest Office Supply",
+      "position": "IT Generalist",
+      "location": "Pinewick, ME",
+      "startDate": "2016-06",
+      "endDate": "2021-02",
+      "summary": "The only IT person for a 40 person company across two sites.",
+      "highlights": [
+        "Moved email and files to a hosted service over one weekend with no lost mail.",
+        "Wrote the first backup and recovery plan and tested it twice a year."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Pinewick Tech Library",
+      "position": "Volunteer Helper",
+      "startDate": "2019-01",
+      "endDate": "",
+      "summary": "Helps neighbors set up devices and email.",
+      "highlights": [
+        "Runs a monthly drop-in help hour."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pinewick Community College",
+      "studyType": "Associate degree",
+      "area": "Information Technology",
+      "startDate": "2012",
+      "endDate": "2014"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Answer library",
+      "description": "A searchable set of short support guides used by the whole team.",
+      "url": "https://example.com/alex-rivera/answers",
+      "keywords": [
+        "Documentation",
+        "Search"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Example IT Support Certificate",
+      "issuer": "Example Institute",
+      "date": "2019-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Support",
+      "keywords": [
+        "Ticket triage",
+        "Incident handling",
+        "Customer writing"
+      ]
+    },
+    {
+      "name": "Systems",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "Networking basics",
+        "Backups"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoors",
+      "keywords": [
+        "Trail running",
+        "Kayaking"
+      ]
+    }
+  ]
+}

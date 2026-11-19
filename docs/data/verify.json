@@ -1,0 +1,22 @@
+{
+  "title": "Verify it's me",
+  "intro": "SAMPLE PAGE. All details are made up. These accounts all belong to the same person. Each one links back here, so you can check the connection from either side.",
+  "sections": [
+    {
+      "title": "Professional",
+      "intro": "",
+      "items": [
+        { "label": "Professional profile", "value": "example.com/alex-rivera/profile", "url": "https://example.com/alex-rivera/profile", "note": "" },
+        { "label": "Email", "value": "alex@example.com", "url": "mailto:alex@example.com", "note": "Use this address for anything official." }
+      ]
+    },
+    {
+      "title": "Code and writing",
+      "intro": "",
+      "items": [
+        { "label": "Code samples", "value": "example.com/alex-rivera/code", "url": "https://example.com/alex-rivera/code", "note": "" }
+      ]
+    }
+  ],
+  "footer": "Last checked November 2026."
+}

@@ -1,0 +1,6 @@
+{
+  // Only needed if you host on Cloudflare. Any other static host can ignore this file.
+  "name": "parchwire-lite",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./docs" }
+}

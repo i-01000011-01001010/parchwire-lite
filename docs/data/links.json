@@ -1,0 +1,7 @@
+[
+  { "heading": "Elsewhere" },
+  { "label": "Code samples", "url": "https://example.com/alex-rivera/code" },
+  { "label": "Writing", "url": "https://example.com/alex-rivera/writing" },
+  { "heading": "Contact" },
+  { "label": "Email me", "url": "mailto:alex@example.com", "newTab": false }
+]

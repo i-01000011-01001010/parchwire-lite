@@ -1,0 +1,4 @@
+/data/*
+  Cache-Control: no-cache
+/downloads/*
+  Cache-Control: no-cache
