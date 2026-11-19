@@ -1,6 +1,6 @@
 # Parchwire Lite
 
-A simple, free resume website. No database, no server, no build step. Your resume lives in one JSON file, the page reads it every time it loads, and updating your site means replacing a file.
+A simple, free resume website. No database, no generation step. Your resume is in one Standard Resume JSON file, the page reads it every time it loads, and updating your resume means replacing a single resume JSON file.
 
 It has:
 
